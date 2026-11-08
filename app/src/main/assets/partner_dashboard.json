@@ -1,0 +1,31 @@
+{
+ "source": "smb_leads.csv, 5,000 leads, April-June 2026",
+ "leads": 5000,
+ "funnel": [
+  [
+   "Questionnaire started",
+   3406
+  ],
+  [
+   "Plan shown",
+   1974
+  ],
+  [
+   "Quote accepted",
+   861
+  ],
+  [
+   "KYC complete",
+   588
+  ],
+  [
+   "Activated",
+   368
+  ]
+ ],
+ "blended_cost_per_activation_inr": 15053,
+ "acquisition_cost_total_inr": 5539640,
+ "activations": 368,
+ "self_serve_share_of_activations": 0.14402173913043478,
+ "funnel_note": "Historical stages mapped to the app: contacted = questionnaire started, needs assessed = plan shown."
+}

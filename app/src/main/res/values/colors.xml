@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Friendly green brand -->
+    <color name="brand_primary">#21A75A</color>
+    <color name="brand_primary_edge">#17834A</color>
+    <color name="brand_on_primary">#FFFFFF</color>
+    <color name="brand_primary_container">#D6F5E0</color>
+    <color name="brand_on_primary_container">#062A14</color>
+    <color name="brand_secondary">#4A635F</color>
+    <color name="brand_secondary_container">#CCE8E2</color>
+    <color name="brand_tertiary">#E08A00</color>
+    <color name="launcher_bg">#21A75A</color>
+
+    <color name="surface">#FFFFFF</color>
+
+    <!-- Chunky tiles -->
+    <color name="tile_fill">#FFFFFF</color>
+    <color name="tile_border">#E3E6EA</color>
+    <color name="tile_edge">#D2D7DC</color>
+    <color name="tile_label">#3C4650</color>
+    <color name="tile_hint">#7A8590</color>
+    <color name="sel_fill">#E4F4FF</color>
+    <color name="sel_border">#88CCF4</color>
+    <color name="sel_edge">#4AA9E2</color>
+    <color name="sel_text">#1679B7</color>
+    <!-- Chart bars: validated with the dataviz palette checks against this mode's surface. -->
+    <color name="chart_bar">#21A75A</color>
+</resources>

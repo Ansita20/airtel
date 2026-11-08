@@ -1,0 +1,97 @@
+term,type,en,hi,mr,gu,pa,bn,ta,te,kn,ml,note
+internet plan,word,plan,योजना,प्लॅन,પ્લાન,ਪਲਾਨ,প্ল্যান,பிளான்,ప్లాన్,ಪ್ಲಾನ್,പ്ലാൻ,"Hindi keeps the reviewed योजना; elsewhere telcos and shop owners say ""plan"""
+setup fee,word,setup,लगाने का ख़र्च,बसवण्याचा खर्च,લગાવવાનો ખર્ચ,ਲਗਵਾਈ ਦਾ ਖ਼ਰਚਾ,লাগানোর খরচ,இன்ஸ்டலேஷன் கட்டணம்,ఇన్‌స్టలేషన్ ఛార్జీ,ಇನ್‌ಸ್ಟಾಲೇಶನ್ ಶುಲ್ಕ,ഇൻസ്റ്റലേഷൻ ചാർജ്,one-time charge to install
+monthly,word,a month,महीना,दरमहा,દર મહિને,ਹਰ ਮਹੀਨੇ,মাসে,மாதம்,నెలకు,ತಿಂಗಳಿಗೆ,മാസം,
+month,word,month,महीना,महिना,મહિનો,ਮਹੀਨਾ,মাস,மாதம்,నెల,ತಿಂಗಳು,മാസം,
+contract,word,contract,कॉन्ट्रैक्ट,करार,કરાર,ਕੰਟਰੈਕਟ,চুক্তি,ஒப்பந்தம்,ఒప్పందం,ಒಪ್ಪಂದ,കരാർ,
+branch,word,branch,शाखा,शाखा,શાખા,ਬ੍ਰਾਂਚ,শাখা,கிளை,బ్రాంచ్,ಶಾಖೆ,ശാഖ,Hindi reviewed: शाखाएँ (plural)
+employee / people working,word,people,लोग,लोक,લોકો,ਬੰਦੇ,জন,பேர்,మంది,ಜನ,പേർ,"counting people at the business: the plain word for ""people"", not ""employees"""
+shop,word,shop,दुकान,दुकान,દુકાન,ਦੁਕਾਨ,দোকান,கடை,షాప్,ಅಂಗಡಿ,കട,
+factory,word,factory,कारखाना,कारखाना,ફેક્ટરી,ਫੈਕਟਰੀ,কারখানা,தொழிற்சாலை,ఫ్యాక్టరీ,ಕಾರ್ಖಾನೆ,ഫാക്ടറി,Hindi reviewed: कारखाना
+office,word,office,दफ़्तर,ऑफिस,ઓફિસ,ਦਫ਼ਤਰ,অফিস,ஆபீஸ்,ఆఫీస్,ಆಫೀಸ್,ഓഫീസ്,Hindi reviewed: दफ़्तर
+medical shop / pharmacy,word,medical shop,दवा की दुकान,मेडिकल,મેડિકલ,ਮੈਡੀਕਲ,ওষুধের দোকান,மருந்துக் கடை,మెడికల్ షాప్,ಮೆಡಿಕಲ್,മെഡിക്കൽ ഷോപ്പ്,Hindi reviewed: दवा की दुकान
+business,word,business,कारोबार,व्यवसाय,ધંધો,ਕਾਰੋਬਾਰ,ব্যবসা,தொழில்,వ్యాపారం,ವ್ಯಾಪಾರ,ബിസിനസ്,
+bill,word,bill,बिल,बिल,બિલ,ਬਿੱਲ,বিল,பில்,బిల్లు,ಬಿಲ್,ബിൽ,
+installation,word,installation,लगाना,बसवणे,લગાવવું,ਲਗਵਾਈ,লাগানো,இன்ஸ்டலேஷன்,ఇన్‌స్టలేషన్,ಇನ್‌ಸ್ಟಾಲೇಶನ್,ഇൻസ്റ്റലേഷൻ,
+technician,word,technician,टेक्नीशियन,टेक्निशियन,ટેકનિશિયન,ਟੈਕਨੀਸ਼ੀਅਨ,মিস্ত্রি,டெக்னீஷியன்,టెక్నీషియన్,ಟೆಕ್ನಿಷಿಯನ್,ടെക്നീഷ്യൻ,
+technician visit,word,visit,विज़िट,भेट,મુલાકાત,ਵਿਜ਼ਿਟ,আসা,வருகை,విజిట్,ಭೇಟಿ,വരവ്,
+payment,word,payment,भुगतान,पेमेंट,પેમેન્ટ,ਪੇਮੈਂਟ,পেমেন্ট,பேமெண்ட்,పేమెంట్,ಪೇಮೆಂಟ್,പേയ്മെന്റ്,Hindi reviewed: भुगतान
+payment failed,word,payment didn't go through,भुगतान नहीं हुआ,पेमेंट झाले नाही,પેમેન્ટ થયું નહીં,ਪੇਮੈਂਟ ਨਹੀਂ ਹੋਈ,পেমেন্ট হয়নি,பேமெண்ட் ஆகவில்லை,పేమెంట్ కాలేదు,ಪೇಮೆಂಟ್ ಆಗಲಿಲ್ಲ,പേയ്മെന്റ് നടന്നില്ല,
+document,word,document,दस्तावेज़,कागदपत्र,દસ્તાવેજ,ਕਾਗਜ਼,কাগজ,ஆவணம்,డాక్యుమెంట్,ದಾಖಲೆ,രേഖ,
+address proof,word,address proof,पते का प्रमाण,पत्त्याचा पुरावा,સરનામાનો પુરાવો,ਪਤੇ ਦਾ ਸਬੂਤ,ঠিকানার প্রমাণ,முகவரிச் சான்று,అడ్రస్ ప్రూఫ్,ವಿಳಾಸದ ಪುರಾವೆ,വിലാസ രേഖ,
+ID card,word,ID,पहचान पत्र,ओळखपत्र,ઓળખપત્ર,ਪਛਾਣ ਪੱਤਰ,পরিচয়পত্র,அடையாள அட்டை,ఐడీ కార్డు,ಗುರುತಿನ ಚೀಟಿ,തിരിച്ചറിയൽ കാർഡ്,
+signatory,word,signatory,हस्ताक्षरकर्ता,सही करणारा,સહી કરનાર,ਦਸਤਖ਼ਤ ਕਰਨ ਵਾਲਾ,যিনি সই করবেন,கையெழுத்திடுபவர்,సంతకం చేసేవారు,ಸಹಿ ಮಾಡುವವರು,ഒപ്പിടുന്നയാൾ,the person who signs for the business
+certificate,word,certificate,प्रमाणपत्र,प्रमाणपत्र,પ્રમાણપત્ર,ਸਰਟੀਫਿਕੇਟ,সার্টিফিকেট,சான்றிதழ்,సర్టిఫికెట్,ಪ್ರಮಾಣಪತ್ರ,സർട്ടിഫിക്കറ്റ്,
+owner,word,owner,मालिक,मालक,માલિક,ਮਾਲਕ,মালিক,ஓனர்,యజమాని,ಮಾಲೀಕ,ഉടമ,
+customer,word,customer,ग्राहक,ग्राहक,ગ્રાહક,ਗਾਹਕ,খদ্দের,கஸ்டமர்,కస్టమర్,ಗ್ರಾಹಕ,കസ്റ്റമർ,
+order,word,order,ऑर्डर,ऑर्डर,ઓર્ડર,ਆਰਡਰ,অর্ডার,ஆர்டர்,ఆర్డర్,ಆರ್ಡರ್,ഓർഡർ,
+budget,word,budget,बजट,बजेट,બજેટ,ਬਜਟ,বাজেট,பட்ஜெட்,బడ్జెట్,ಬಜೆಟ್,ബജറ്റ്,
+price,word,price,दाम,किंमत,ભાવ,ਕੀਮਤ,দাম,விலை,ధర,ಬೆಲೆ,വില,
+free (no charge),word,free,मुफ़्त,मोफत,મફત,ਮੁਫ਼ਤ,ফ্রি,இலவசம்,ఫ్రీ,ಉಚಿತ,ഫ്രീ,
+connection,word,connection,कनेक्शन,कनेक्शन,કનેક્શન,ਕੁਨੈਕਸ਼ਨ,কানেকশন,கனெக்ஷன்,కనెక్షన్,ಕನೆಕ್ಷನ್,കണക്ഷൻ,
+wired internet / broadband,word,broadband,तार वाला इंटरनेट,ब्रॉडबँड,બ્રોડબેન્ડ,ਬ੍ਰਾਡਬੈਂਡ,ব্রডব্যান্ড,பிராட்பேண்ட்,బ్రాడ్‌బ్యాండ్,ಬ್ರಾಡ್‌ಬ್ಯಾಂಡ್,ബ്രോഡ്ബാൻഡ്,Hindi reviewed: तार वाला इंटरनेट
+fibre,word,fibre,फ़ाइबर,फायबर,ફાઇબર,ਫਾਈਬਰ,ফাইবার,ஃபைபர்,ఫైబర్,ಫೈಬರ್,ഫൈബർ,
+speed,word,speed,स्पीड,स्पीड,સ્પીડ,ਸਪੀਡ,স্পিড,ஸ்பீடு,స్పీడ్,ಸ್ಪೀಡ್,സ്പീഡ്,
+delay,word,late,देरी,उशीर,મોડું,ਦੇਰੀ,দেরি,தாமதம்,ఆలస్యం,ತಡ,വൈകി,
+help,word,help,मदद,मदत,મદદ,ਮਦਦ,সাহায্য,உதவி,సహాయం,ಸಹಾಯ,സഹായം,
+talk to a person,word,talk to a person,किसी से बात करें,माणसाशी बोला,કોઈની સાથે વાત કરો,ਕਿਸੇ ਬੰਦੇ ਨਾਲ ਗੱਲ ਕਰੋ,মানুষের সঙ্গে কথা বলুন,ஒருவரிடம் பேசுங்கள்,మనిషితో మాట్లాడండి,ಒಬ್ಬರ ಜೊತೆ ಮಾತಾಡಿ,ഒരാളോട് സംസാരിക്കൂ,
+upload,word,upload,अपलोड,अपलोड,અપલોડ,ਅਪਲੋਡ,আপলোড,அப்லோட்,అప్‌లోడ్,ಅಪ್‌ಲೋಡ್,അപ്‌ലോഡ്,
+photo,word,photo,फ़ोटो,फोटो,ફોટો,ਫ਼ੋਟੋ,ছবি,போட்டோ,ఫోటో,ಫೋಟೋ,ഫോട്ടോ,
+scan,word,scan,स्कैन,स्कॅन,સ્કેન,ਸਕੈਨ,স্ক্যান,ஸ்கேன்,స్కాన్,ಸ್ಕ್ಯಾನ್,സ്കാൻ,
+check (verify),word,check,जांचें,तपासा,ચકાસો,ਚੈੱਕ ਕਰੋ,মিলিয়ে দেখুন,சரிபாருங்கள்,చెక్ చేయండి,ಚೆಕ್ ಮಾಡಿ,നോക്കൂ,
+registry,word,registry,रजिस्ट्री,रजिस्ट्री,રજિસ્ટ્રી,ਰਜਿਸਟਰੀ,রেজিস্ট্রি,ரெஜிஸ்ட்ரி,రిజిస్ట్రీ,ರಿಜಿಸ್ಟ್ರಿ,രജിസ്ട്രി,the official GST / Udyam list
+cancelled,word,cancelled,रद्द,रद्द,રદ,ਰੱਦ,বাতিল,ரத்து,రద్దు,ರದ್ದು,റദ്ദായി,
+expired,word,expired,ख़त्म,मुदत संपली,મુદત પૂરી,ਮਿਆਦ ਖ਼ਤਮ,মেয়াদ শেষ,காலாவதி,గడువు ముగిసింది,ಅವಧಿ ಮುಗಿದಿದೆ,കാലാവധി കഴിഞ്ഞു,
+date of birth,word,date of birth,जन्म तिथि,जन्मतारीख,જન્મ તારીખ,ਜਨਮ ਤਾਰੀਖ਼,জন্মতারিখ,பிறந்த தேதி,పుట్టిన తేదీ,ಹುಟ್ಟಿದ ದಿನಾಂಕ,ജനനത്തീയതി,
+consent,word,consent,सहमति,संमती,સંમતિ,ਸਹਿਮਤੀ,সম্মতি,ஒப்புதல்,అనుమతి,ಒಪ್ಪಿಗೆ,സമ്മതം,
+delete,word,delete,मिटाएँ,डिलीट करा,ડિલીટ કરો,ਡਿਲੀਟ ਕਰੋ,মুছে দিন,டெலீட் செய்யுங்கள்,డిలీట్ చేయండి,ಡಿಲೀಟ್ ಮಾಡಿ,ഡിലീറ്റ് ചെയ്യൂ,
+quote,word,quote,कोटेशन,कोटेशन,ક્વોટેશન,ਕੋਟੇਸ਼ਨ,কোটেশন,கொட்டேஷன்,కొటేషన్,ಕೊಟೇಶನ್,ക്വട്ടേഷൻ,
+backup internet,word,backup internet,दूसरा इंटरनेट,बॅकअप इंटरनेट,બેકઅપ ઇન્ટરનેટ,ਬੈਕਅੱਪ ਇੰਟਰਨੈੱਟ,ব্যাকআপ ইন্টারনেট,பேக்கப் இன்டர்நெட்,బ్యాకప్ ఇంటర్నెట్,ಬ್ಯಾಕಪ್ ಇಂಟರ್ನೆಟ್,ബാക്കപ്പ് ഇന്റർനെറ്റ്,Hindi reviewed: दूसरा इंटरनेट
+leased line,word,leased line,निजी पक्की लाइन,लीज्ड लाइन,લીઝ્ડ લાઇન,ਲੀਜ਼ਡ ਲਾਈਨ,লিজড লাইন,லீஸ்டு லைன்,లీజ్డ్ లైన్,ಲೀಸ್ಡ್ ಲೈನ್,ലീസ്ഡ് ലൈൻ,
+internet,word,internet,इंटरनेट,इंटरनेट,ઇન્ટરનેટ,ਇੰਟਰਨੈੱਟ,ইন্টারনেট,இன்டர்நெட்,ఇంటర్నెట్,ಇಂಟರ್ನೆಟ್,ഇന്റർനെറ്റ്,written in the local script: that is how it appears on shop signs and telco apps
+mobile / phone,word,phone,फ़ोन,फोन,ફોન,ਫ਼ੋਨ,ফোন,போன்,ఫోన్,ಫೋನ್,ഫോൺ,
+UPI,keep_english,UPI,UPI,UPI,UPI,UPI,UPI,UPI,UPI,UPI,UPI,always Latin letters
+GST,keep_english,GST,GST,GST,GST,GST,GST,GST,GST,GST,GST,
+GSTIN,keep_english,GSTIN,GSTIN,GSTIN,GSTIN,GSTIN,GSTIN,GSTIN,GSTIN,GSTIN,GSTIN,
+Wi-Fi,keep_english,Wi-Fi,Wi-Fi,Wi-Fi,Wi-Fi,Wi-Fi,Wi-Fi,Wi-Fi,Wi-Fi,Wi-Fi,Wi-Fi,
+CCTV,keep_english,CCTV,CCTV,CCTV,CCTV,CCTV,CCTV,CCTV,CCTV,CCTV,CCTV,
+WhatsApp,keep_english,WhatsApp,WhatsApp,WhatsApp,WhatsApp,WhatsApp,WhatsApp,WhatsApp,WhatsApp,WhatsApp,WhatsApp,
+SIM,keep_english,SIM,SIM,SIM,SIM,SIM,SIM,SIM,SIM,SIM,SIM,"local script also common (सिम, சிம்); either is fine"
+Mbps,keep_english,Mbps,Mbps,Mbps,Mbps,Mbps,Mbps,Mbps,Mbps,Mbps,Mbps,also Gbps / GB / TB
+Gbps,keep_english,Gbps,Gbps,Gbps,Gbps,Gbps,Gbps,Gbps,Gbps,Gbps,Gbps,
+GB,keep_english,GB,GB,GB,GB,GB,GB,GB,GB,GB,GB,
+TB,keep_english,TB,TB,TB,TB,TB,TB,TB,TB,TB,TB,
+OTP,keep_english,OTP,OTP,OTP,OTP,OTP,OTP,OTP,OTP,OTP,OTP,
+KYC,keep_english,KYC,KYC,KYC,KYC,KYC,KYC,KYC,KYC,KYC,KYC,
+PAN,keep_english,PAN,PAN,PAN,PAN,PAN,PAN,PAN,PAN,PAN,PAN,
+PIN,keep_english,PIN,PIN,PIN,PIN,PIN,PIN,PIN,PIN,PIN,PIN,phone screen lock PIN
+SMS,keep_english,SMS,SMS,SMS,SMS,SMS,SMS,SMS,SMS,SMS,SMS,
+IP,keep_english,IP,IP,IP,IP,IP,IP,IP,IP,IP,IP,
+DLT,keep_english,DLT,DLT,DLT,DLT,DLT,DLT,DLT,DLT,DLT,DLT,
+SLA,keep_english,SLA,SLA,SLA,SLA,SLA,SLA,SLA,SLA,SLA,SLA,
+IVR,keep_english,IVR,IVR,IVR,IVR,IVR,IVR,IVR,IVR,IVR,IVR,
+HD,keep_english,HD,HD,HD,HD,HD,HD,HD,HD,HD,HD,
+SSL,keep_english,SSL,SSL,SSL,SSL,SSL,SSL,SSL,SSL,SSL,SSL,
+SOC,keep_english,SOC,SOC,SOC,SOC,SOC,SOC,SOC,SOC,SOC,SOC,
+POS,keep_english,POS,POS,POS,POS,POS,POS,POS,POS,POS,POS,
+5G,keep_english,5G,5G,5G,5G,5G,5G,5G,5G,5G,5G,also 4G
+4G,keep_english,4G,4G,4G,4G,4G,4G,4G,4G,4G,4G,
+AI,keep_english,AI,AI,AI,AI,AI,AI,AI,AI,AI,AI,
+ID,keep_english,ID,ID,ID,ID,ID,ID,ID,ID,ID,ID,in compounds like signatory ID numbers
+MSME,keep_english,MSME,MSME,MSME,MSME,MSME,MSME,MSME,MSME,MSME,MSME,
+UDYAM,keep_english,UDYAM,UDYAM,UDYAM,UDYAM,UDYAM,UDYAM,UDYAM,UDYAM,UDYAM,UDYAM,only inside the number format UDYAM-XX-00-1234567
+DigiLocker,keep_english,DigiLocker,DigiLocker,DigiLocker,DigiLocker,DigiLocker,DigiLocker,DigiLocker,DigiLocker,DigiLocker,DigiLocker,government app name
+Play Store,keep_english,Play Store,Play Store,Play Store,Play Store,Play Store,Play Store,Play Store,Play Store,Play Store,Play Store,
+Google,keep_english,Google,Google,Google,Google,Google,Google,Google,Google,Google,Google,"in ""Speech Services by Google"""
+Speech Services by Google,keep_english,Speech Services by Google,Speech Services by Google,Speech Services by Google,Speech Services by Google,Speech Services by Google,Speech Services by Google,Speech Services by Google,Speech Services by Google,Speech Services by Google,Speech Services by Google,exact app name in the Play Store
+Accel,keep_english,Accel,Accel,Accel,Accel,Accel,Accel,Accel,Accel,Accel,Accel,brand
+Accel Business,keep_english,Accel Business,Accel Business,Accel Business,Accel Business,Accel Business,Accel Business,Accel Business,Accel Business,Accel Business,Accel Business,brand
+Udyam Digital,keep_english,Udyam Digital,Udyam Digital,Udyam Digital,Udyam Digital,Udyam Digital,Udyam Digital,Udyam Digital,Udyam Digital,Udyam Digital,Udyam Digital,"app name: the brand stays in Latin letters, like the Play Store listing"
+Biz Fibre,keep_english,Biz Fibre,Biz Fibre,Biz Fibre,Biz Fibre,Biz Fibre,Biz Fibre,Biz Fibre,Biz Fibre,Biz Fibre,Biz Fibre,product brand from the catalogue
+AirFiber,keep_english,AirFiber,AirFiber,AirFiber,AirFiber,AirFiber,AirFiber,AirFiber,AirFiber,AirFiber,AirFiber,product brand (5G AirFiber)
+Basic,keep_english,Basic,Basic,Basic,Basic,Basic,Basic,Basic,Basic,Basic,Basic,pack name
+Premium,keep_english,Premium,Premium,Premium,Premium,Premium,Premium,Premium,Premium,Premium,Premium,pack name (also Premium+)
+Sahay,keep_english,Sahay,Sahay,Sahay,Sahay,Sahay,Sahay,Sahay,Sahay,Sahay,Sahay,help assistant's name
+digits,rule,0-9,0-9,0-9,0-9,0-9,0-9,0-9,0-9,0-9,0-9,Western digits in every language; never Devanagari or other Indian digits
+currency,rule,₹,₹,₹,₹,₹,₹,₹,₹,₹,₹,"the ₹ symbol, never ""Rs"""
+dates,rule,26 June 2026,26 जून 2026,26 जून 2026,26 જૂન 2026,26 ਜੂਨ 2026,26 জুন 2026,26 ஜூன் 2026,26 జూన్ 2026,26 ಜೂನ್ 2026,26 ജൂൺ 2026,the locale's month names with Western digits (I18n.date)

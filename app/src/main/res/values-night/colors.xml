@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_primary">#4CD47E</color>
+    <color name="brand_primary_edge">#2E9E58</color>
+    <color name="brand_on_primary">#06240F</color>
+    <color name="brand_primary_container">#0F4D27</color>
+    <color name="brand_on_primary_container">#C2F5D2</color>
+    <color name="brand_secondary">#B1CCC6</color>
+    <color name="brand_secondary_container">#334B47</color>
+    <color name="brand_tertiary">#F9BC48</color>
+
+    <color name="surface">#121A1F</color>
+
+    <color name="tile_fill">#18232A</color>
+    <color name="tile_border">#33434D</color>
+    <color name="tile_edge">#33434D</color>
+    <color name="tile_label">#E6ECF0</color>
+    <color name="tile_hint">#93A1AB</color>
+    <color name="sel_fill">#173447</color>
+    <color name="sel_border">#3C8DC0</color>
+    <color name="sel_edge">#3C8DC0</color>
+    <color name="sel_text">#8FD3FF</color>
+    <!-- Chart bars: validated with the dataviz palette checks against this mode's surface. -->
+    <color name="chart_bar">#2EA55E</color>
+</resources>

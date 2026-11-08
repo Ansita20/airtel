@@ -1,0 +1,442 @@
+[
+ {
+  "id": "L00552",
+  "fields": {
+   "segment": "Micro retail & services",
+   "business_type": "Bakery",
+   "city_tier": 2,
+   "employees": 2,
+   "sites": 1,
+   "has_gstin": true,
+   "has_udyam": false,
+   "current_internet": "Mobile hotspot",
+   "spend": 500,
+   "lead_source": "Website form",
+   "stage": "Lead"
+  },
+  "probability": 0.0011111389296843163,
+  "score": 8,
+  "reasons": [
+   "has GSTIN",
+   "was contacted"
+  ]
+ },
+ {
+  "id": "L01908",
+  "fields": {
+   "segment": "Professional offices",
+   "business_type": "Travel agency",
+   "city_tier": 2,
+   "employees": 12,
+   "sites": 1,
+   "has_gstin": true,
+   "has_udyam": true,
+   "current_internet": "Home broadband",
+   "spend": 2200,
+   "lead_source": "WhatsApp campaign",
+   "stage": "Lead"
+  },
+  "probability": 0.0048124253853719275,
+  "score": 31,
+  "reasons": [
+   "has GSTIN",
+   "was contacted"
+  ]
+ },
+ {
+  "id": "L01853",
+  "fields": {
+   "segment": "Professional offices",
+   "business_type": "Dental clinic",
+   "city_tier": 2,
+   "employees": 21,
+   "sites": 1,
+   "has_gstin": false,
+   "has_udyam": false,
+   "current_internet": "Mobile hotspot",
+   "spend": 4250,
+   "lead_source": "Inbound call",
+   "stage": "Quote accepted"
+  },
+  "probability": 0.14119408300008962,
+  "score": 80,
+  "reasons": [
+   "reached quote stage",
+   "not contacted yet"
+  ]
+ },
+ {
+  "id": "L01959",
+  "fields": {
+   "segment": "Micro retail & services",
+   "business_type": "Salon",
+   "city_tier": 1,
+   "employees": 5,
+   "sites": 1,
+   "has_gstin": true,
+   "has_udyam": false,
+   "current_internet": "Mobile hotspot",
+   "spend": 650,
+   "lead_source": "Inbound call",
+   "stage": "Needs assessed"
+  },
+  "probability": 0.18538708942026183,
+  "score": 85,
+  "reasons": [
+   "not contacted yet",
+   "needs assessed"
+  ]
+ },
+ {
+  "id": "L02432",
+  "fields": {
+   "segment": "Micro retail & services",
+   "business_type": "Pharmacy",
+   "city_tier": 1,
+   "employees": 3,
+   "sites": 1,
+   "has_gstin": true,
+   "has_udyam": false,
+   "current_internet": "Mobile hotspot",
+   "spend": 400,
+   "lead_source": "Field sales",
+   "stage": "Contacted"
+  },
+  "probability": 0.011113213582195407,
+  "score": 42,
+  "reasons": [
+   "not contacted yet",
+   "has GSTIN"
+  ]
+ },
+ {
+  "id": "L02172",
+  "fields": {
+   "segment": "Micro retail & services",
+   "business_type": "Optician",
+   "city_tier": 2,
+   "employees": 4,
+   "sites": 1,
+   "has_gstin": true,
+   "has_udyam": true,
+   "current_internet": "Mobile hotspot",
+   "spend": 800,
+   "lead_source": "Website form",
+   "stage": "Lead"
+  },
+  "probability": 0.0018390877911271257,
+  "score": 13,
+  "reasons": [
+   "has GSTIN",
+   "was contacted"
+  ]
+ },
+ {
+  "id": "L00676",
+  "fields": {
+   "segment": "Micro retail & services",
+   "business_type": "Salon",
+   "city_tier": 2,
+   "employees": 4,
+   "sites": 1,
+   "has_gstin": true,
+   "has_udyam": false,
+   "current_internet": "Mobile hotspot",
+   "spend": 1650,
+   "lead_source": "Website form",
+   "stage": "Lead"
+  },
+  "probability": 0.001603446607117179,
+  "score": 11,
+  "reasons": [
+   "has GSTIN",
+   "was contacted"
+  ]
+ },
+ {
+  "id": "L01209",
+  "fields": {
+   "segment": "Micro retail & services",
+   "business_type": "Salon",
+   "city_tier": 1,
+   "employees": 5,
+   "sites": 1,
+   "has_gstin": true,
+   "has_udyam": true,
+   "current_internet": "Mobile hotspot",
+   "spend": 1650,
+   "lead_source": "Channel partner",
+   "stage": "Contacted"
+  },
+  "probability": 0.02343708482606135,
+  "score": 54,
+  "reasons": [
+   "not contacted yet",
+   "has GSTIN"
+  ]
+ },
+ {
+  "id": "L01552",
+  "fields": {
+   "segment": "Micro retail & services",
+   "business_type": "Kirana store",
+   "city_tier": 1,
+   "employees": 6,
+   "sites": 1,
+   "has_gstin": true,
+   "has_udyam": true,
+   "current_internet": "Home broadband",
+   "spend": 1250,
+   "lead_source": "Channel partner",
+   "stage": "Lead"
+  },
+  "probability": 0.00236463066840117,
+  "score": 16,
+  "reasons": [
+   "has GSTIN",
+   "was contacted"
+  ]
+ },
+ {
+  "id": "L01160",
+  "fields": {
+   "segment": "Small multi-site businesses",
+   "business_type": "Pharmacy chain",
+   "city_tier": 1,
+   "employees": 72,
+   "sites": 12,
+   "has_gstin": true,
+   "has_udyam": true,
+   "current_internet": "Business broadband",
+   "spend": 9200,
+   "lead_source": "Field sales",
+   "stage": "Needs assessed"
+  },
+  "probability": 0.21249074007543028,
+  "score": 88,
+  "reasons": [
+   "not contacted yet",
+   "needs assessed"
+  ]
+ },
+ {
+  "id": "L03502",
+  "fields": {
+   "segment": "Professional offices",
+   "business_type": "Dental clinic",
+   "city_tier": 1,
+   "employees": 9,
+   "sites": 1,
+   "has_gstin": true,
+   "has_udyam": true,
+   "current_internet": "Home broadband",
+   "spend": 2500,
+   "lead_source": "Channel partner",
+   "stage": "Needs assessed"
+  },
+  "probability": 0.24282802973944062,
+  "score": 90,
+  "reasons": [
+   "not contacted yet",
+   "needs assessed"
+  ]
+ },
+ {
+  "id": "L01073",
+  "fields": {
+   "segment": "Micro retail & services",
+   "business_type": "Stationery shop",
+   "city_tier": 1,
+   "employees": 1,
+   "sites": 1,
+   "has_gstin": true,
+   "has_udyam": false,
+   "current_internet": "Business broadband",
+   "spend": 600,
+   "lead_source": "Website form",
+   "stage": "Lead"
+  },
+  "probability": 0.0029366815870595434,
+  "score": 20,
+  "reasons": [
+   "has GSTIN",
+   "was contacted"
+  ]
+ },
+ {
+  "id": "L03426",
+  "fields": {
+   "segment": "Professional offices",
+   "business_type": "Coaching centre",
+   "city_tier": 1,
+   "employees": 19,
+   "sites": 2,
+   "has_gstin": true,
+   "has_udyam": false,
+   "current_internet": "Business broadband",
+   "spend": 3400,
+   "lead_source": "Field sales",
+   "stage": "Needs assessed"
+  },
+  "probability": 0.1713484444331991,
+  "score": 84,
+  "reasons": [
+   "not contacted yet",
+   "needs assessed"
+  ]
+ },
+ {
+  "id": "L00901",
+  "fields": {
+   "segment": "Professional offices",
+   "business_type": "Travel agency",
+   "city_tier": 2,
+   "employees": 12,
+   "sites": 1,
+   "has_gstin": true,
+   "has_udyam": true,
+   "current_internet": "Business broadband",
+   "spend": 1950,
+   "lead_source": "Channel partner",
+   "stage": "Contacted"
+  },
+  "probability": 0.0437685187752397,
+  "score": 66,
+  "reasons": [
+   "not contacted yet",
+   "has GSTIN"
+  ]
+ },
+ {
+  "id": "L04739",
+  "fields": {
+   "segment": "Micro retail & services",
+   "business_type": "Bakery",
+   "city_tier": 1,
+   "employees": 1,
+   "sites": 1,
+   "has_gstin": true,
+   "has_udyam": true,
+   "current_internet": "Home broadband",
+   "spend": 750,
+   "lead_source": "Website form",
+   "stage": "Needs assessed"
+  },
+  "probability": 0.11889400760300133,
+  "score": 78,
+  "reasons": [
+   "not contacted yet",
+   "needs assessed"
+  ]
+ },
+ {
+  "id": "L03605",
+  "fields": {
+   "segment": "Micro retail & services",
+   "business_type": "Stationery shop",
+   "city_tier": 1,
+   "employees": 4,
+   "sites": 1,
+   "has_gstin": false,
+   "has_udyam": true,
+   "current_internet": "Mobile hotspot",
+   "spend": 1200,
+   "lead_source": "WhatsApp campaign",
+   "stage": "Lead"
+  },
+  "probability": 0.0006854087421446835,
+  "score": 5,
+  "reasons": [
+   "was contacted",
+   "tier 2 city"
+  ]
+ },
+ {
+  "id": "L00526",
+  "fields": {
+   "segment": "Small multi-site businesses",
+   "business_type": "Pharmacy chain",
+   "city_tier": 1,
+   "employees": 104,
+   "sites": 6,
+   "has_gstin": true,
+   "has_udyam": true,
+   "current_internet": "Mixed per site",
+   "spend": 5850,
+   "lead_source": "Referral",
+   "stage": "Needs assessed"
+  },
+  "probability": 0.47317133843370557,
+  "score": 98,
+  "reasons": [
+   "not contacted yet",
+   "needs assessed"
+  ]
+ },
+ {
+  "id": "L03106",
+  "fields": {
+   "segment": "Micro retail & services",
+   "business_type": "Pharmacy",
+   "city_tier": 2,
+   "employees": 5,
+   "sites": 1,
+   "has_gstin": true,
+   "has_udyam": true,
+   "current_internet": "Mobile hotspot",
+   "spend": 1550,
+   "lead_source": "Inbound call",
+   "stage": "Needs assessed"
+  },
+  "probability": 0.09001640929527949,
+  "score": 74,
+  "reasons": [
+   "not contacted yet",
+   "needs assessed"
+  ]
+ },
+ {
+  "id": "L02109",
+  "fields": {
+   "segment": "Micro retail & services",
+   "business_type": "Bakery",
+   "city_tier": 2,
+   "employees": 5,
+   "sites": 1,
+   "has_gstin": true,
+   "has_udyam": false,
+   "current_internet": "Business broadband",
+   "spend": 1150,
+   "lead_source": "Inbound call",
+   "stage": "Contacted"
+  },
+  "probability": 0.010644238163792917,
+  "score": 42,
+  "reasons": [
+   "not contacted yet",
+   "has GSTIN"
+  ]
+ },
+ {
+  "id": "L01984",
+  "fields": {
+   "segment": "Micro retail & services",
+   "business_type": "Kirana store",
+   "city_tier": 1,
+   "employees": 1,
+   "sites": 1,
+   "has_gstin": false,
+   "has_udyam": false,
+   "current_internet": "Mobile hotspot",
+   "spend": 650,
+   "lead_source": "Field sales",
+   "stage": "Contacted"
+  },
+  "probability": 0.004177812655380462,
+  "score": 29,
+  "reasons": [
+   "not contacted yet",
+   "more staff"
+  ]
+ }
+]

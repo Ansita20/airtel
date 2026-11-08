@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_title">मदद</string>
+    <string name="help_subtitle">सहायक · आपकी भाषा में जवाब</string>
+    <string name="toolbar_desc">मदद। डीबग पैनल के लिए देर तक दबाएँ।</string>
+    <string name="talk_to_person">किसी व्यक्ति से बात करें</string>
+    <string name="type_message">अपना सवाल लिखें</string>
+    <string name="send">भेजें</string>
+    <string name="mic">अपना सवाल बोलें</string>
+    <string name="voice_unavailable">इस फ़ोन पर बोलकर लिखने की सुविधा नहीं है</string>
+    <string name="voice_error">सुनाई नहीं दिया। कृपया फिर से बोलें।</string>
+    <string name="voice_listening">सुन रहे हैं…</string>
+    <string name="handoff_title">आपको एक व्यक्ति से जोड़ रहे हैं</string>
+    <string name="handoff_message">टिकट %1$s। लगभग %2$d मिनट इंतज़ार। एजेंट यह बातचीत देखेगा, इसलिए आपको कुछ दोहराना नहीं पड़ेगा।</string>
+    <string name="agent_joining">लगभग %1$d मिनट में एक एजेंट इस बातचीत में जुड़ेगा।</string>
+    <string name="banner_quote">आपकी योजना · ₹%1$s/माह</string>
+    <string name="demo_personas">डेमो ग्राहक</string>
+    <string name="history">पुरानी बातचीत</string>
+    <string name="history_empty">अभी कोई संदेश नहीं।</string>
+    <string name="mascot_desc">सहाय, आपका मदद सहायक</string>
+    <string name="back_to_app">ऐप पर वापस</string>
+</resources>

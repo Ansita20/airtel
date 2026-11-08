@@ -1,0 +1,15 @@
+{
+ "_how_to_fill": "For each applicant set overall to Approved, Please fix or Manual review, and list the checks that must be flagged (FAIL or WARN), e.g. [\"C13\"]. Leave overall empty to skip an applicant. Used by the debug screen 'Run all specimens' and by SpecimenReplayTest (./gradlew test).",
+ "K01": {"overall": "", "checks_failed": []},
+ "K02": {"overall": "", "checks_failed": []},
+ "K03": {"overall": "", "checks_failed": []},
+ "K04": {"overall": "", "checks_failed": []},
+ "K05": {"overall": "", "checks_failed": []},
+ "K06": {"overall": "", "checks_failed": []},
+ "K07": {"overall": "", "checks_failed": []},
+ "K08": {"overall": "", "checks_failed": []},
+ "K09": {"overall": "", "checks_failed": []},
+ "K10": {"overall": "", "checks_failed": []},
+ "K11": {"overall": "", "checks_failed": []},
+ "K12": {"overall": "", "checks_failed": []}
+}

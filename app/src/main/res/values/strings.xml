@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generated from one table; keep wording to 1-3 words where possible. -->
+<resources>
+    <string name="choose_language" translatable="false">भाषा चुनें · Choose language</string>
+    <string name="step_of" translatable="false">%1$d/%2$d</string>
+    <string name="gstin_active" translatable="false">✓ %1$s\n📍 %2$s</string>
+    <string name="gstin_active_no_city" translatable="false">✓ %1$s</string>
+    <string name="line_detail" translatable="false">%1$d × %2$s %3$s</string>
+    <string name="kyc_title" translatable="false">KYC</string>
+    <string name="debug_title" translatable="false">Recommender debug</string>
+    <string name="debug_export" translatable="false">Export log</string>
+    <string name="app_name">Udyam Digital</string>
+    <string name="tagline">Your shop, online</string>
+    <string name="back">Back</string>
+    <string name="continue_btn">Next</string>
+    <string name="see_my_plan">See my plan</string>
+    <string name="listen">Listen</string>
+    <string name="gstin_hint">GST number</string>
+    <string name="gstin_check">Check</string>
+    <string name="gstin_none">No GST</string>
+    <string name="gstin_none_hint">That\'s OK</string>
+    <string name="gstin_bad_format">Need 15 letters, like 27ABCDE1234F1Z5</string>
+    <string name="gstin_bad_checksum">Typo? Check again</string>
+    <string name="gstin_not_found">Not found. Check, or tap No GST</string>
+    <string name="gstin_inactive">⚠ This GST is %1$s</string>
+    <string name="status_cancelled">cancelled</string>
+    <string name="status_suspended">suspended</string>
+    <string name="plan_title">Your plan</string>
+    <string name="per_month">per month</string>
+    <string name="setup_contract">Setup %1$s · %2$d months</string>
+    <string name="setup_none">Free setup · %1$d months</string>
+    <string name="budget_ok">✓ In your %1$s budget</string>
+    <string name="budget_over">%1$s over your %2$s budget. Turn off extras to save.</string>
+    <string name="more_options">More options</string>
+    <string name="pack_basic">Basic</string>
+    <string name="pack_premium">Premium</string>
+    <string name="pack_premium_plus">Premium+</string>
+    <string name="pack_over">%1$s over budget</string>
+    <string name="pack_adds">Adds: %1$s</string>
+    <string name="pack_leaves">Leaves out: %1$s</string>
+    <string name="pack_same">Same price as your plan</string>
+    <string name="pack_diff">%1$s vs your plan</string>
+    <string name="pack_choose">Choose this plan</string>
+    <string name="pack_selected">✓ Selected</string>
+    <string name="budget_none">No budget limit</string>
+    <string name="section_core">Your internet</string>
+    <string name="section_recommended">You asked for</string>
+    <string name="section_suggested">Businesses like yours often add</string>
+    <string name="how_on">Only what you asked for is switched on.</string>
+    <string name="section_optional">You can also add</string>
+    <string name="how_title">How we picked this</string>
+    <string name="how_rules">We removed products not available for your city, size or GST status.</string>
+    <string name="how_rank">We ranked the rest by what similar businesses kept for 6+ months.</string>
+    <string name="how_switch">You can switch anything on or off.</string>
+    <string name="privacy_note">Privacy: to improve suggestions we keep anonymous counts on this phone (business type, size band, what you switched) for 90 days, then delete them. No names, GST or phone numbers.</string>
+    <string name="qty_less">Fewer</string>
+    <string name="qty_more">More</string>
+    <string name="section_excluded">Not included</string>
+    <string name="line_setup">+ %1$s setup</string>
+    <string name="line_monthly">%1$s/mo</string>
+    <string name="why_prefix">Why: %1$s</string>
+    <string name="cta_kyc">Next: KYC</string>
+    <string name="cta_tracker">Track order</string>
+    <string name="cta_chat">Ask us</string>
+    <string name="start_over">Start again</string>
+    <string name="tracker_title">Order tracker</string>
+    <string name="chat_title">Help</string>
+    <string name="placeholder_msg">Coming soon</string>
+    <string name="tts_missing_voice">The %1$s voice is not on this phone yet. Download it now? It is free and needs internet once.</string>
+    <string name="tts_download">Download</string>
+    <string name="tts_not_now">Not now</string>
+    <string name="tts_not_supported">This phone can\'t speak %1$s yet. Install \"Speech Services by Google\" from the Play Store to hear it.</string>
+    <string name="tts_get_engine">Get it</string>
+    <string name="voice_mode">Talk instead of type</string>
+    <string name="voice_mode_hint">The app reads each question aloud and listens to your answer.</string>
+    <string name="voice_say_language">Say your language</string>
+    <string name="voice_mic">Speak your answer</string>
+    <string name="voice_mic_reason">We use the microphone only while you speak an answer. Nothing is recorded or saved.</string>
+    <string name="voice_ok">OK</string>
+    <string name="voice_not_now">Not now</string>
+    <string name="voice_not_available">Voice is not available in %1$s on this phone - you can tap instead</string>
+    <string name="voice_hearing">Listening…</string>
+    <string name="voice_you_said">You said: %1$s. Correct?</string>
+    <string name="voice_yes">Yes</string>
+    <string name="voice_no">No</string>
+    <string name="voice_reask">Sorry, I didn\'t catch that. Was it %1$s or %2$s?</string>
+    <string name="voice_say_again">Say again</string>
+    <string name="voice_not_caught">Sorry, I didn\'t catch that. Please say it again, or tap your answer.</string>
+    <string name="voice_people">%1$s people</string>
+    <string name="voice_branches">%1$s branches</string>
+    <string name="voice_nothing">nothing else</string>
+    <string name="voice_gstin_prompt">Say your GST number, or say no.</string>
+    <string name="voice_gstin_check">Please check the number on the screen.</string>
+    <string name="voice_gstin_type">Please type your GST number, or tap the button below.</string>
+    <string name="voice_read_on">Reading aloud is on</string>
+    <string name="voice_read_off">Reading aloud is off</string>
+    <string name="voice_rupees">%1$s rupees</string>
+    <string name="voice_rupees_month">%1$s a month</string>
+    <string name="voice_range_to">to</string>
+    <string name="voice_or_more">or more</string>
+</resources>

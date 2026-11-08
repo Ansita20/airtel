@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand">#FF8A95</color>
+    <color name="bubble_user">#9E1B2C</color>
+    <color name="bubble_user_text">#FFFFFF</color>
+    <color name="bubble_bot">#2B2929</color>
+    <color name="bubble_bot_text">#EDE7E7</color>
+    <color name="banner_bg">#3A1B20</color>
+    <color name="banner_text">#FFD9DD</color>
+    <color name="card_face">#2A2727</color>
+    <color name="card_border">#3B3636</color>
+    <color name="card_edge">#151313</color>
+    <color name="card_text">#EFEAEA</color>
+    <color name="good_face">#2F8A4B</color>
+    <color name="good_edge">#1D5C31</color>
+    <color name="good_text">#FFFFFF</color>
+    <color name="progress_track">#3A3535</color>
+    <color name="progress_fill">#4CC072</color>
+    <color name="speech_bg">#2A2727</color>
+    <color name="speech_border">#3B3636</color>
+    <color name="screen_bg">#1B1919</color>
+    <color name="solved_bg">#17301F</color>
+    <color name="handoff_bg">#33261A</color>
+</resources>

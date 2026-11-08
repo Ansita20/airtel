@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Help bot: optional AI answers (masked context only) and voice input. -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <!-- Order updates (asked on Android 13+ with a one-line reason). -->
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+
+    <!-- KYC photos (optional: the gallery works without it). -->
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-feature android:name="android.hardware.camera" android:required="false" />
+
+    <!-- Lets the app find the phone's text-to-speech engine (read questions aloud). -->
+    <queries>
+        <intent>
+            <action android:name="android.intent.action.TTS_SERVICE" />
+        </intent>
+        <intent>
+            <action android:name="android.speech.RecognitionService" />
+        </intent>
+    </queries>
+
+    <application
+        android:name=".UdyamApp"
+        android:allowBackup="false"
+        android:fullBackupContent="@xml/backup_rules"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:usesCleartextTraffic="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:localeConfig="@xml/locales_config"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.UdyamDigital"
+        tools:targetApi="33">
+
+        <activity
+            android:name=".ui.LanguageActivity"
+            android:exported="true"
+            android:theme="@style/Theme.UdyamDigital.Starting">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.QuestionnaireActivity" android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+        <activity android:name=".ui.PlanActivity" android:exported="false" />
+        <activity android:name=".ui.PlaceholderActivity" android:exported="false" />
+        <activity android:name=".ui.DebugActivity" android:exported="false" />
+        <activity android:name=".help.HelpActivity" android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+        <activity android:name=".kycui.KycActivity" android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+        <activity android:name=".kycui.CameraCaptureActivity" android:exported="false" />
+        <activity android:name=".kycui.KycSettingsActivity" android:exported="false" />
+        <activity android:name=".partner.PartnerActivity" android:exported="false" />
+        <activity android:name=".orderui.TrackerActivity" android:exported="false"
+            android:launchMode="singleTop" />
+        <activity android:name=".orderui.CheckoutActivity" android:exported="false" />
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.files"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+
+        <!-- Lets AppCompat persist the per-app language on Android 12 and below. -->
+        <service
+            android:name="androidx.appcompat.app.AppLocalesMetadataHolderService"
+            android:enabled="false"
+            android:exported="false">
+            <meta-data
+                android:name="autoStoreLocales"
+                android:value="true" />
+        </service>
+    </application>
+</manifest>

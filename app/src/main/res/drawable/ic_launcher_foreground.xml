@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Shop awning -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,44 L38,34 L70,34 L74,44 Q74,49 69,49 Q64,49 64,44 Q64,49 59,49 Q54,49 54,44 Q54,49 49,49 Q44,49 44,44 Q44,49 39,49 Q34,49 34,44 Z" />
+    <!-- Shop body with door -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,52 L71,52 L71,74 L58,74 L58,62 L50,62 L50,74 L37,74 Z" />
+    <!-- Signal arcs -->
+    <path
+        android:strokeColor="#FFD54F"
+        android:strokeWidth="3"
+        android:fillColor="#00000000"
+        android:strokeLineCap="round"
+        android:pathData="M46,28 Q54,22 62,28" />
+    <path
+        android:strokeColor="#FFD54F"
+        android:strokeWidth="3"
+        android:fillColor="#00000000"
+        android:strokeLineCap="round"
+        android:pathData="M42,23 Q54,14 66,23" />
+</vector>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  HTTPS only: no plain-HTTP traffic anywhere in the app.
+  The only server the app calls is the optional help-bot LLM (api.anthropic.com). It is pinned to
+  its CA chain (public-key hashes): Google Trust Services WE1 (intermediate) and GTS Root R1-R4,
+  so a fake certificate from any other CA - even one installed on the phone - is refused.
+  Pins checked on 2026-11-07. The pin set expires on 2028-01-01 so an old app falls back to normal
+  certificate checks instead of breaking; update the pins before then.
+  Requests only ever carry check codes and masked IDs (OutboundGuard); never document images.
+-->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="false">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+    <domain-config cleartextTrafficPermitted="false">
+        <domain includeSubdomains="false">api.anthropic.com</domain>
+        <pin-set expiration="2028-01-01">
+            <pin digest="SHA-256">kIdp6NNEd8wsugYyyIYFsi1ylMCED3hZbSR8ZFsa/A4=</pin>
+            <pin digest="SHA-256">mEflZT5enoR1FuXLgYYGqnVEoZvmf9c2bVBpiOjYQ0c=</pin>
+            <pin digest="SHA-256">hxqRlPTu1bMS/0DITB1SSu0vd4u/8l8TjPgfaAp63Gc=</pin>
+            <pin digest="SHA-256">Vfd95BwDeSQo+NUYxVEEIlvkOlWY2SalKK1lPhzOx78=</pin>
+            <pin digest="SHA-256">QXnt2YHvdHR3tJYmQIr0Paosp6t/nggsEGD4QJZ3Q0g=</pin>
+        </pin-set>
+    </domain-config>
+    <!-- Debug builds may trust user-installed CAs for inspecting traffic; release never does. -->
+    <debug-overrides>
+        <trust-anchors>
+            <certificates src="user" />
+        </trust-anchors>
+    </debug-overrides>
+</network-security-config>

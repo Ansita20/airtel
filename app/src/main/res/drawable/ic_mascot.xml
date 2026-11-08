@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp" android:height="96dp" android:viewportWidth="96" android:viewportHeight="96">
+    <!-- antenna -->
+    <path android:strokeColor="#5C0A16" android:strokeWidth="3" android:strokeLineCap="round" android:pathData="M48,28 L48,18" />
+    <path android:fillColor="#FFC531" android:pathData="M44,14 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0z" />
+    <!-- headset ear pads -->
+    <path android:fillColor="#5C0A16" android:pathData="M5,46 h7 v20 h-7 a2,2 0 0 1 -2,-2 v-16 a2,2 0 0 1 2,-2z" />
+    <path android:fillColor="#5C0A16" android:pathData="M84,46 h7 a2,2 0 0 1 2,2 v16 a2,2 0 0 1 -2,2 h-7z" />
+    <!-- head -->
+    <path android:fillColor="#C8102E" android:pathData="M22,28 h52 a12,12 0 0 1 12,12 v34 a12,12 0 0 1 -12,12 h-52 a12,12 0 0 1 -12,-12 v-34 a12,12 0 0 1 12,-12z" />
+    <!-- face screen -->
+    <path android:fillColor="#FFF7F2" android:pathData="M28,37 h40 a8,8 0 0 1 8,8 v22 a8,8 0 0 1 -8,8 h-40 a8,8 0 0 1 -8,-8 v-22 a8,8 0 0 1 8,-8z" />
+    <!-- eyes -->
+    <path android:fillColor="#2A1416" android:pathData="M33,52 a5,5 0 1,0 10,0 a5,5 0 1,0 -10,0z" />
+    <path android:fillColor="#2A1416" android:pathData="M53,52 a5,5 0 1,0 10,0 a5,5 0 1,0 -10,0z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M37,50 a1.6,1.6 0 1,0 3.2,0 a1.6,1.6 0 1,0 -3.2,0z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M57,50 a1.6,1.6 0 1,0 3.2,0 a1.6,1.6 0 1,0 -3.2,0z" />
+    <!-- cheeks -->
+    <path android:fillColor="#FFB3BC" android:pathData="M26,61 a3.5,2.5 0 1,0 7,0 a3.5,2.5 0 1,0 -7,0z" />
+    <path android:fillColor="#FFB3BC" android:pathData="M63,61 a3.5,2.5 0 1,0 7,0 a3.5,2.5 0 1,0 -7,0z" />
+    <!-- smile -->
+    <path android:strokeColor="#2A1416" android:strokeWidth="3" android:strokeLineCap="round" android:pathData="M40,63 Q48,70 56,63" />
+    <!-- headset mic -->
+    <path android:strokeColor="#5C0A16" android:strokeWidth="2.5" android:strokeLineCap="round" android:pathData="M88,64 Q86,80 70,82" />
+    <path android:fillColor="#5C0A16" android:pathData="M66,82 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0z" />
+</vector>

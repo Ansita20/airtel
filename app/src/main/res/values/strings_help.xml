@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_title">Help</string>
+    <string name="help_subtitle">AI assistant · answers in your language</string>
+    <string name="toolbar_desc">Help. Long-press for the debug panel.</string>
+    <string name="talk_to_person">Talk to a person</string>
+    <string name="type_message">Type your question</string>
+    <string name="send">Send</string>
+    <string name="mic">Speak your question</string>
+    <string name="voice_unavailable">Voice input is not available on this phone</string>
+    <string name="voice_error">Didn\'t catch that. Please try again.</string>
+    <string name="voice_listening">Listening…</string>
+    <string name="handoff_title">Connecting you to a person</string>
+    <string name="handoff_message">Ticket %1$s. Expected wait: about %2$d minutes. The agent will see this chat, so you won\'t need to repeat anything.</string>
+    <string name="agent_joining">An agent will join this chat in about %1$d minutes.</string>
+    <string name="banner_quote">Your plan · Rs %1$s/month</string>
+    <string name="demo_personas">Demo customers</string>
+    <string name="history">History</string>
+    <string name="history_empty">No messages yet.</string>
+    <string name="mascot_desc">Sahay, your help assistant</string>
+    <string name="back_to_app">Back to app</string>
+</resources>
